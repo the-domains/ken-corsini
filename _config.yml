@@ -1,0 +1,28 @@
+name: Ken Corsini
+favicon: null
+layout_spectrum: 0.33897579251788557
+typography_spectrum: 0.7589224427938461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.26098470226861537
+  lightness: 0.5171706029213965
+  saturation: 0.5772683024406433
+  rhythmicContrast: 0.054427937138825655
+purpose: []
